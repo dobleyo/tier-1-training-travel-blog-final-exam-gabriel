@@ -1,0 +1,36 @@
+owner: "Gabriel Rojas"
+is_active: true
+creation_date: 2023-05-14
+
+social_links:
+  instagram: "https://instagram.com/world_explorer"
+  youtube: "https://youtube.com/world_explorer"
+  facebook: "https://facebook.com/world_explorer"
+
+popular_posts:
+- title: "Exploring the Streets of Kyoto"
+  views: 18500
+  tags: [ "Japan", "Culture", "Food" ]
+  comments: 256
+- title: "Top 10 Beaches in the Caribbean"
+  views: 23200
+  tags: [ "Beach", "Caribbean", "Travel Tips" ]
+  comments: 312
+
+newsletter_subscribers: 1450
+
+about: "A travel blog sharing unique destinations, cultural experiences, and tips for travelers worldwide."
+
+featured_destination:
+  name: "Santorini"
+  country: "Greece"
+  best_season: "Summer"
+  rating: 5
+
+contact_email: "contact@worldexplorer.com"
+
+partner_links:
+- "https://travelpartner1.com"
+- "https://travelpartner2.com"
+
+last_update: 2025-08-10
